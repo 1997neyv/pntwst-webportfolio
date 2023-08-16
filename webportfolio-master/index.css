@@ -67,7 +67,7 @@ color: #FFFFFF;
 
 #nav-text {
     font-family: 'Montserrat', monospace;
-    font-weight: 800;
+    font-weight: 400;
     background: -webkit-linear-gradient(#f7f400, #00ff08);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
